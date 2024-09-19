@@ -37,8 +37,8 @@ The silhouette score is very small for any number of clusters. After 4 clusters 
 ![image](pictures/inertia_silhouette.png)
 
 #### 4 clusters in 3D
-![image](pictures/pca1.png)  
-![image](pictures/pca2.png)
+![image](pictures/pca1.PNG)  
+![image](pictures/pca2.PNG)
 
 ### Created clusters
 
